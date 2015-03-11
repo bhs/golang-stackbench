@@ -1,2 +1,4 @@
 # golang-stack-bench
-benchmarking the golang debug.Stack() function
+
+Benchmarking the golang runtime.Stack(...) function in terms of the stack depth
+and output buffer size.
